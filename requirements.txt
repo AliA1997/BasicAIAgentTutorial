@@ -1,0 +1,5 @@
+smolagents 
+torch 
+transformers 
+huggingface_hub 
+ddgs
